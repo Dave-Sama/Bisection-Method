@@ -108,8 +108,7 @@ def FindSolution(function, boundry, epsilon):
     for dr in deriRoots:
         if (function.subs(x, round(dr)) == 0):
             roots.append(round(dr))
-    if(function.subs(x,0)) == 0:
-        roots.append(0)
+
     print()
     if len(roots) == 0:
         print("There are no roots")
