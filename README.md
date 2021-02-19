@@ -17,7 +17,7 @@ Or until we reach a really small difference
 ilustration:</br>
 ![ilustration](https://i.ibb.co/NLS0ZBK/bis.jpg)
 
-the algorithem logic will spin around the following: 
+the algorithem's logic will spin around the following: 
 ```bash
 while(b-a):
   c = (a+b)/2
