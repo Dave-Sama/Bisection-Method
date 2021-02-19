@@ -14,7 +14,7 @@ Divided into two again
 Repeat the process until we reach zero
 Or until we reach a really small difference
 
-ilustration:
+ilustration:</br>
 ![ilustration](https://i.ibb.co/NLS0ZBK/bis.jpg)
 
 the algorithem logic will spin around the following: 
